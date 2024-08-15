@@ -14,9 +14,9 @@
 
 - 📝 I regularly write articles on [https://hackmd.io/@phamtam](https://hackmd.io/@phamtam)
 
-- 💬 Ask me about **Tamiuoi**
-
 - 📫 How to reach me **pvantam1604@gmail.com**
+
+- 💬 Ask me about **Tamiuoi**
   
 - ⚡ Fun fact **I am funny**
 
