@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Web Penetration at CBJS**
 
-- 👨‍💻 All of my projects are available at [https://pvantam.notion.site/PhamTam-df4y-916fad11bcb74f719d2a945d66121aa0?pvs=4](https://pvantam.notion.site/PhamTam-df4y-916fad11bcb74f719d2a945d66121aa0?pvs=4)
-
 - 📝 I regularly write articles on [https://hackmd.io/@phamtam](https://hackmd.io/@phamtam)
 
 - 💬 Ask me about **Tamiuoi**
