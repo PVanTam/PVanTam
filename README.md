@@ -12,6 +12,8 @@
 
 - 🌱 I’m currently learning **Web Penetration at CBJS**
 
+- 👯 I’m actively looking to collaborate on **Bug Hunting Projects**.
+
 - 📝 I regularly write articles on [https://hackmd.io/@phamtam](https://hackmd.io/@phamtam)
 
 - 📫 How to reach me **pvantam1604@gmail.com**
@@ -40,6 +42,10 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -56,6 +62,10 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+  <a style="padding-right:8px;" href="https://portswigger.net/burp/pro" target="_blank"> 
+    <img src="https://portswigger.net/content/images/svg/icons/professional.svg" alt="burpsuite" width="42" height="42"/> 
+  </a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pvantam&show_icons=true&locale=en&layout=compact" alt="pvantam" /></p>
