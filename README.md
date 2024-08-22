@@ -14,7 +14,7 @@
 
 - 👯 I’m actively looking to collaborate on **Bug Hunting Projects**.
 
-- 📝 I regularly write articles on [https://hackmd.io/@phamtam](https://hackmd.io/@phamtam)
+- 📝 I regularly write articles on ...
 
 - 📫 How to reach me **pvantam1604@gmail.com**
 
